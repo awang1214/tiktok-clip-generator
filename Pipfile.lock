@@ -1,0 +1,22 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "9bebff22b18b477e1d1697cb092c5064ddd4b5d92021a13f9c0f4e2e78f2e129"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "ffmpeg": "*",
+            "moviepy": "*",
+            "python_version": "3.12"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {},
+    "develop": {}
+}
